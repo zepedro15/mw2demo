@@ -1,2 +1,2 @@
-# mw2demo
-3.1.3 Part 3: Technical Explanation
+# kickstarter-analysis
+An Analysis of Kickstarter Campaigns_events throughout the year
